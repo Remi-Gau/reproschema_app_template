@@ -4,7 +4,7 @@ name: CI
 
 env:
   # commit shasum for the reproschema we want to get
-  CHECKSUM: ba33641be4a3e37af19cc88f00e95e35663afb3f
+  CHECKSUM: a45efccdb7d3d7f90a6b54e6f0ba2a4137e40661
 
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
