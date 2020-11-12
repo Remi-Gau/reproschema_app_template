@@ -18,7 +18,7 @@ with questionnaires encoded as a
       actions (the continuous integration service runby Github).
 - [ ] Add your `protocol_schema` file in the protocols folder.
 
-- [ ] Make sure to modify `github/workflows/build_deploy.yml`, so that the
+- [ ] Make sure to modify `.github/workflows/build_deploy.yml`, so that the
       reproschema python package will run on the right protocol_schema. Look for
       something like the snippet of code below:
 
