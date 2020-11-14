@@ -8,8 +8,8 @@ with questionnaires encoded as a
 
 ## Changes to make to get your app running
 
-- [ ] Use this
-      [template to create a new repository on your account](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template).
+- [ ] Click 'Use this
+      [template' to create a new repository on your account](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template).
 
 - [ ] Clone the newly created repository.
 
